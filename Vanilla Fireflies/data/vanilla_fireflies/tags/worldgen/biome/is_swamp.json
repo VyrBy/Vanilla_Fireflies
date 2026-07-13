@@ -2,6 +2,11 @@
   "values": [
     "minecraft:swamp",
     "minecraft:mangrove_swamp",
+    "minecraft:plains",
+    "minecraft:forest",
+    "minecraft:flower_forest",
+    "minecraft:cherry_grove",
+    "minecraft:grove",
     {
       "id": "terralith:orchid_swamp",
       "required": false
